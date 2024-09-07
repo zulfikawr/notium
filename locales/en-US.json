@@ -1,0 +1,79 @@
+{
+  "sidebar_title": "Workspace",
+  "non-active": "Notium Preview",
+  "active": "Close Preview",
+  "Notes": "Notes",
+  "Favorites": "Favorites",
+  "AI asistant": "AI asistant",
+  "Settings": "Settings",
+  "About.file.txt": "About.file.txt",
+  "telegram": "Telegram bot",
+  "settings_page": {
+    "contacts": {
+      "title": "Contacts",
+      "description": "Follow us on social media and GitHub to stay updated on all the latest developments and news about our Notium!",
+      "redirect": "Redirect",
+      "card": {
+        "Alex Peshkov": "Alex Peshkov",
+        "Airat Bagautdinov": "Airat Bagautdinov"
+      }
+    },
+    "appearence": {
+      "title": "Appearence",
+      "description": "Customize the appearance of the app. Automatically switch between themes. Language selection.",
+      "theme": {
+        "title": "Theme",
+        "description": "Select the theme for Notium.",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      },
+      "update": "Update preferences"
+    }
+  },
+  "top_menu": {
+    "btns": {
+      "rerdirect_notes": "Go to Notes",
+      "favorite": "Go to Notes",
+      "update": "Update",
+      "note": "Add Note",
+      "filter": "Filter notes...",
+      "search": "Search"
+    },
+    "priority": {
+      "title": "Priority",
+      "filter": "Priority",
+      "low": "low",
+      "medium": "medium",
+      "high": "high",
+      "none": "none",
+      "all": "all notes"
+    }
+  },
+  "account": {
+    "welcome": "Go to Welcome",
+    "logout": "Log out"
+  },
+  "notes_page_null": {
+    "title": "You don't have any notes",
+    "description": "Add new notes to your collection",
+    "btn": "Add new note"
+  },
+  "favorite_notes_page_null": {
+    "title": "You don't have any favorite notes",
+    "description": "Open your notes and add new favorite note to your collection",
+    "btn": "Go to Notes"
+  },
+  "ai": {
+    "placeholder": "Tell NotiumAI a little bit about yourself",
+    "description": "Notium AI - your ai assistant. Remember your ideas in one click."
+  },
+  "toasts": {
+    "update": "Your note has been successfully updated!",
+    "delete": "Your note has been deleted!",
+    "update_about": "You can't change the note About.text.txt",
+    "delete_about": "You can't delete the note About.text.txt",
+    "favorite_about": "You can't add to favorite the note About.text.txt",
+    "warning": "Warning"
+  }
+}
